@@ -1,7 +1,7 @@
 # Change to your own name
 site_name: Evan Davies-Velie's Research Website
 # Change to your own site
-site_url: https://EvanDV.github.io/ # must have the trailing slash
+site_url: https://EvanDV.github.io/physics/ # must have the trailing slash
 site_author: Evan Davies-Velie (evan.davies-velie@mail.mcgill.ca)
 site_description: Research site for Evan Davies-Velie 
 copyright: > # should remain a link to the original theme
@@ -51,7 +51,7 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-  - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 # For describing the navigation panel
 nav:
@@ -64,6 +64,8 @@ nav:
 markdown_extensions:
   - attr_list   # For adding attributes such as right/left align to images
   - md_in_html  # Using Figures
+  - pymdownx.arithmatex:
+      generic: true
 
 
 

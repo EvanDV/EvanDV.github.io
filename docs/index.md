@@ -14,7 +14,6 @@ Thank you for visiting, and feel free to explore more about my journey in radio 
 If you're like to learn more about me, you can find an introduction to [my research](./reasearch/research_index.md), some info on some [recent projects](./projects/project_index.md) and some more info [about me](./about/about.md).
 
 
-## CHIME
 
 [![CHIME](./media/CHIME.jpg "CHIME")](https://chime-experiment.ca/en)
 CHIME is a novel radio telescope that has no moving parts. Originally conceived to map the most abundant element in the universe - hydrogen - over a good fraction of the observable universe, this unusual telescope is optimized to have a high "mapping speed", which requires a large instantaneous field of view (~200 square degrees) and broad frequency coverage (400-800 MHz). The digitized signals collected by CHIME will be processed to form a 3-dimensional map of hydrogen density, which will be used to measure the expansion history of the universe. At the same time, these signals can be combed for fast, transient radio emission, making CHIME a unique telescope for discovering new "Fast Radio Bursts" and for monitoring many pulsars on a daily basis.
