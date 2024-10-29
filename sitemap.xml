@@ -1,51 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://EvanDV.github.io/</loc>
+         <loc>https://EvanDV.github.io/physics/</loc>
          <lastmod>2024-10-29</lastmod>
     </url>
     <url>
-         <loc>https://EvanDV.github.io/about/</loc>
+         <loc>https://EvanDV.github.io/physics/about/</loc>
          <lastmod>2024-10-29</lastmod>
     </url>
     <url>
-         <loc>https://EvanDV.github.io/about/cooking/</loc>
+         <loc>https://EvanDV.github.io/physics/projects/</loc>
          <lastmod>2024-10-29</lastmod>
     </url>
     <url>
-         <loc>https://EvanDV.github.io/about/cycling/</loc>
+         <loc>https://EvanDV.github.io/physics/projects/python_project/WWZ/</loc>
          <lastmod>2024-10-29</lastmod>
     </url>
     <url>
-         <loc>https://EvanDV.github.io/about/fishing/</loc>
+         <loc>https://EvanDV.github.io/physics/reasearch/</loc>
          <lastmod>2024-10-29</lastmod>
     </url>
     <url>
-         <loc>https://EvanDV.github.io/projects/</loc>
+         <loc>https://EvanDV.github.io/physics/reasearch/all_publications/</loc>
          <lastmod>2024-10-29</lastmod>
     </url>
     <url>
-         <loc>https://EvanDV.github.io/projects/data_project/</loc>
+         <loc>https://EvanDV.github.io/physics/reasearch/highlights/awesome_paper/</loc>
          <lastmod>2024-10-29</lastmod>
     </url>
     <url>
-         <loc>https://EvanDV.github.io/projects/python_project/WWZ/</loc>
-         <lastmod>2024-10-29</lastmod>
-    </url>
-    <url>
-         <loc>https://EvanDV.github.io/reasearch/</loc>
-         <lastmod>2024-10-29</lastmod>
-    </url>
-    <url>
-         <loc>https://EvanDV.github.io/reasearch/all_publications/</loc>
-         <lastmod>2024-10-29</lastmod>
-    </url>
-    <url>
-         <loc>https://EvanDV.github.io/reasearch/highlights/awesome_paper/</loc>
-         <lastmod>2024-10-29</lastmod>
-    </url>
-    <url>
-         <loc>https://EvanDV.github.io/reasearch/highlights/large_mwl_paper/</loc>
+         <loc>https://EvanDV.github.io/physics/reasearch/highlights/large_mwl_paper/</loc>
          <lastmod>2024-10-29</lastmod>
     </url>
 </urlset>
